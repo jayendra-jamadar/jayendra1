@@ -2,7 +2,7 @@ import random
 
 responses = {
     "hello": ["Hi there!", "Hello!", "Hey!"],
-    "how are you": ["I'm just a chatbot, so I don't have feelings, but thanks for asking!", "I'm here to help."],
+    "i want new government policies": ["These are the new Government policies etc"],
     "bye": ["Goodbye!", "See you later!", "Farewell!"],
     "i have a problem":["Sure i am here to solve it,is it legal, market related etc"],
     "legal":["Advice etc"],
